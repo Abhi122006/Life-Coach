@@ -1,0 +1,7 @@
+{
+  "name": "Kairos - Adaptive AI Life Coach",
+  "description": "An intelligent, adaptive life coach that helps you plan goals, tracks your mood, and offers real-time voice coaching sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
